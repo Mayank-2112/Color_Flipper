@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+}
+.navbar{
+    background-color: white;
+    box-shadow: 0px 0.8px rgb(222, 222, 222);
+    border: none;
+}
+h4{
+    margin-left: 300px;
+    font-size: 25px;
+    color: aqua;
+}
+.navbar-nav{
+    margin-left: 400px;
+    font-size: 20px;
+}
+.nav-item{
+    margin-left: 20px;
+    margin-right: 30px;
+}
+.nav-link:hover{
+    color: aqua;
+}
+.container{
+    align-items: center;
+}
+.container  h2{
+    display: block;
+    color: white; 
+    margin-top: 200px;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 15px;
+}
+.color{
+    color:aqua;
+}
+.bttn{
+    
+    background-color: aliceblue;
+    color: black;
+    margin-top: 30px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border-color: black;
+}
+.bttn:hover{
+    box-shadow:  0px 2px;
+    
+}
